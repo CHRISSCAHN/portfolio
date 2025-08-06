@@ -11,7 +11,7 @@ const Achievements = ({ data }) => {
       mic: Mic,
       users: Users,
       github: Github,
-      certificate: Certificate
+      certificate: FileCheck
     };
     const Icon = icons[iconName] || Trophy;
     return <Icon className="w-6 h-6" />;
