@@ -1,5 +1,5 @@
 import React from 'react';
-import { Trophy, Award, Mic, Users, Github, Certificate } from 'lucide-react';
+import { Trophy, Award, Mic, Users, Github, FileCheck } from 'lucide-react';
 import { Card, CardContent } from '../components/ui/card';
 import { Badge } from '../components/ui/badge';
 
